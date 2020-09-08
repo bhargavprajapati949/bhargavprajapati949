@@ -24,7 +24,7 @@ I'm Bhargav Prajapati a passionate self-taught frontend web developer.
 ---
 
 <div><a href="mailto:bhargavprajapati949@gmail.com" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/gmail.svg" alt="bhargavprajapati949@gmail.com" height="20" width="20" /> </a>&nbsp;&nbsp;&nbsp;<a href="https://linkedin.com/in/bhargavprajapati949" target="blank"> <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="in/bhargavprajapati949" height="20" width="20" /> 
-</a>&nbsp;&nbsp;&nbsp;<a style="float: right;" href="https://linkedin.com/in/bhargavprajapati949" target="blank">Visit bhargavprajapati949.github.io</a></div>
+</a>&nbsp;&nbsp;&nbsp;<p align="right"><a href="https://linkedin.com/in/bhargavprajapati949" target="blank">Visit bhargavprajapati949.github.io</a></p></div>
 
 
 
